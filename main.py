@@ -1,7 +1,6 @@
 import flask
 from flask import session
 from flask_sqlalchemy import SQLAlchemy as SQL
-from cryptography.fernet import Fernet
 from flask_sqlalchemy import SQLAlchemy as SQL
 
 
